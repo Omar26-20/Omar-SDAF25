@@ -1,0 +1,31 @@
+ID,Gender,Age,Height,Sport,Satisfaction,PrimaryUse
+1,F,50,165.6,N,Satisfied,Personal
+2,F,44,166.6,Y,Not Satisfied,Work
+3,M,32,167.6,Y,Very Satisfied,Work
+4,M,40,168.6,N,Satisfied,Personal
+5,M,21,169.6,Y,Very Satisfied,Education
+6,F,58,170.6,N,Satisfied,Personal
+7,F,36,171.6,N,Satisfied,Personal
+8,F,26,172.6,Y,Very Satisfied,Work
+9,F,52,173.6,N,Not Satisfied,Work
+10,F,47,174.6,Y,Satisfied,Entertainment
+11,M,30,175.6,Y,Satisfied,Work
+12,M,43,176.6,N,Not Satisfied,Personal
+13,M,25,177.6,Y,Very Satisfied,Education
+14,M,39,178.6,Y,Satisfied,Entertainment
+15,M,20,179.6,Y,Very Satisfied,Education
+16,F,56,180.6,N,Not Satisfied,Work
+17,M,48,181.6,N,Very Satisfied,Personal
+18,F,33,182.6,Y,Very Satisfied,Personal
+19,M,27,183.6,N,Satisfied,Education
+20,F,31,184.6,N,Satisfied,Work
+21,M,45,185.6,Y,Very Satisfied,Work
+22,F,22,186.6,Y,Satisfied,Education
+23,M,61,187.6,N,Not Satisfied,Entertainment
+24,F,38,188.6,N,Very Satisfied,Education
+25,M,24,189.6,Y,Satisfied,Personal
+26,F,51,190.6,N,Very Satisfied,Entertainment
+27,M,19,191.6,Y,Not Satisfied,Education
+28,F,24,192.6,Y,Satisfied,Education
+29,M,35,193.6,Y,Not Satisfied,Work
+30,F,29,194.6,Y,Not Satisfied,Work
